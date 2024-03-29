@@ -1,1 +1,1 @@
-# Migrating-repository-to-AWS-code-commit
+# Migrating-Git repository-to-AWS-code-commit
